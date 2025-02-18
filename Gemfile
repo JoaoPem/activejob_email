@@ -41,6 +41,7 @@ gem "awesome_print"
 # Simple, efficient background processing for Ruby
 gem "sidekiq"
 gem "dotenv-rails"
+gem "mailcatcher"
 
 
 group :development, :test do

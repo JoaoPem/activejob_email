@@ -42,6 +42,9 @@ gem "awesome_print"
 gem "sidekiq"
 gem "dotenv-rails"
 gem "mailcatcher"
+gem "thin", "~> 1.7"
+gem "rack", "~> 2.2.4"
+gem "eventmachine", "~> 1.2"
 
 
 group :development, :test do

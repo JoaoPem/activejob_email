@@ -38,6 +38,9 @@ gem "rack-cors"
 gem "redis"
 # Pretty print your Ruby objects with style
 gem "awesome_print"
+# Simple, efficient background processing for Ruby
+gem "sidekiq"
+gem "dotenv-rails"
 
 
 group :development, :test do

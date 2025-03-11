@@ -43,7 +43,7 @@ gem "sidekiq"
 gem "dotenv-rails"
 gem "mailcatcher"
 gem "thin", "~> 1.7"
-gem "rack", "~> 2.2.4"
+gem "rack", "~> 2.2.13"
 gem "eventmachine", "~> 1.2"
 
 
